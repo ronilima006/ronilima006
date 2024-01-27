@@ -18,5 +18,5 @@
  
 <div> 
   <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "ronilima006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "ronilima006@gmail.com"><img src="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGkPNMsPSStrbpWSSjgfrzDrTnWlKNvQFZLWHmSFZFpDmwZtWRHfnqZBzHJfKDvhGnGb" target="_blank"></a>
   
